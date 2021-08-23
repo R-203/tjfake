@@ -4,25 +4,25 @@
  untuk mengirim virus melalui no hp
  gunakan dengan awalan 8,08,+62
 # Bahan bahan
-*pkg update && pkg upgrade*
+**pkg update && pkg upgrade**
 
--pkg install git
+**pkg install git**
 
--pkg install python2
+**pkg install python2**
 
--pkg install nano
+**pkg install nano**
 
--pkg install figlet toilet ruby
+**pkg install figlet toilet ruby**
 
--gem install lolcat
+**gem install lolcat**
 
--pip2 install termcolor
+**pip2 install termcolor**
 
--git clone https://github.com/dukun-hack/tjfake
+**git clone https://github.com/dukun-hack/tjfake**
 
--cd tjfake
+**cd tjfake**
 
--python2 run.py
+**python2 run.py**
 
 # Perlu di ingat!
 Gunakan tool dengan bijak:)

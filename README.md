@@ -8,22 +8,22 @@
 
 * _pkg install git_
 
-* _pkg **install** python2_
+* _pkg install python2_
 
-* pkg install nano
+* _pkg install nano_
 
-* pkg install figlet toilet ruby
+* _pkg install figlet toilet ruby_
 
-* gem install lolcat
+* _gem install lolcat_
 
-* pip2 install termcolor
+* _pip2 install termcolor_
 
 
-* git clone https://github.com/R-203/tjfake
+* _git clone https://github.com/R-203/tjfake_
 
-* cd tjfake
+* _cd tjfake_
 
-* python2 run.py
+* _python2 run.py_
 ###### Perlu di ingat!
 Gunakan tool dengan bijak:)
 ###salam newbie###

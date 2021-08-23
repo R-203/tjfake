@@ -1,9 +1,9 @@
 # tjfake
  Selamat datang Stah:)
 Kegunaan
-#untuk mengirim virus melalui no hp
-#gunakan dengan awalan 8,08,+62
-Bahan bahan
+untuk mengirim virus melalui no hp
+gunakan dengan awalan 8,08,+62
+# Bahan bahan
 
 % pkg update && pkg upgrade
 % pkg install git

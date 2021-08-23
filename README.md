@@ -3,7 +3,7 @@
  Kegunaan
  untuk mengirim virus melalui no hp
  gunakan dengan awalan 8,08,+62
-# Bahan bahan
+# Bahan bahan:sunglasses:
 * pkg update && pkg upgrade
 
 * pkg install git*

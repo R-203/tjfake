@@ -4,11 +4,11 @@
  untuk mengirim virus melalui no hp
  gunakan dengan awalan 8,08,+62
 # Bahan bahan:sunglasses:
-* pkg update && pkg upgrade
+* _pkg update && pkg upgrade_
 
-* pkg install git*
+* pkg install git
 
-* pkg install python2*
+* pkg install python2
 
 * pkg install nano
 
@@ -16,7 +16,7 @@
 
 * gem install lolcat
 
-* pip2 install termcolor*
+* pip2 install termcolor
 
 
 * git clone https://github.com/R-203/tjfake

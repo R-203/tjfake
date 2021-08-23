@@ -6,9 +6,9 @@
 # Bahan bahan:sunglasses:
 * _pkg update && pkg upgrade_
 
-* pkg install git
+* _pkg install git_
 
-* pkg install python2
+* _pkg **install** python2_
 
 * pkg install nano
 
